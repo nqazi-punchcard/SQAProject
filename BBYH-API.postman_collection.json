@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "393e80a7-5fce-4e0c-a98f-bbd3c48088ea",
+		"name": "BBYH-API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "{{url}}Product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
